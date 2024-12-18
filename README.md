@@ -1,3 +1,3 @@
 # relogio-digital
 
-Projeto feito em HTML, CSS, Javascript. 
+Projeto feito em HTML, CSS, Javascript.
